@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

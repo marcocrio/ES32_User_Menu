@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/CMakeFiles/bootloader
+/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/CMakeFiles/bootloader.rule
+/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/CMakeFiles/bootloader-complete.rule
+/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/marcocrio/Desktop/software/miniterm_serialconsole/esp32_menu/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
